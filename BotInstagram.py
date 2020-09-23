@@ -14,7 +14,7 @@ class BotInstagram:
         self.password = password
         self.url = url
         self.coments = coments.split(',')
-        self.driver = webdriver.Firefox(executable_path="C:\Users\gabri\OneDrive\Documentos\MeusRepositorios\Bot-Instagram\geckodriver-v0.27.0-win64\geckodriver.exe") # Coloque aqui o caminho para o seu geckdriver.
+        self.driver = webdriver.Firefox(executable_path="") #Coloque aqui entre as ""  o caminho para o seu geckdriver.
     def login(self):
         driver = self.driver
         driver.get("https://www.instagram.com")

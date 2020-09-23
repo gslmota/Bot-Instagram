@@ -15,8 +15,10 @@
 * pip install PySimpleGUI
 * pip install selenium
 ```
+ * Baixar o geckodriver de acordo com seu sistema operacional. Recomendo o dowload da versão mais recente! [Dowload geckodriver](https://github.com/mozilla/geckodriver/releases)
+ * Extrair e colocar o arquivo em uma  pasta de fácil acesso, EX: C:, Desktop.
+ * Verifique o caminho do `geeckodriver` na linha 17.
  * Abra o seu editor de código preferido e execute o arquivo `BotInstagram.py`.
- * Verifque o caminho do `geeckodriver` na linha 17. Recomendo o dowload da versão mais recente! [Dowload geckodriver]()
 
 ## 3. Preenchendo os campos
  * Coloque o nome de usuário.
