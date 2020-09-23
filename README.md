@@ -7,7 +7,6 @@
  * Baixe o Mozilla Firefox. [Dowload Firefox](https://www.mozilla.org/pt-BR/firefox/new/)
  * Abra o terminal e execute os seguintes comandos para instalar as bibliotecas necessárias.
 ```
-pip install PySimpleGUI
-
-pip install 
+* pip install PySimpleGUI
+* pip install selenium
 ```
