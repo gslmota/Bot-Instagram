@@ -5,7 +5,7 @@
   - [3. Preenchendo os campos](#3-preenchendo-os-campos)
   - [4. Possíveis Erros](#4-possíveis-erros)
 ## 1. Sobre o Bot
- Este é um Bot para comentários automáticos em sorterios do Instagram, espero que goste, caso eu esteje certo deixe uma star!
+ Este é um Bot para comentários automáticos em sorteios do Instagram, espero que goste, caso eu esteje certo deixe uma star!
 
 ## 2. Ferramentas necessárias para execução
  Atualmente tenho usado o navegador Firefox, logo escolhi ele para o bot executar suas ações, o editor de código que estou usando é o VS Code.
