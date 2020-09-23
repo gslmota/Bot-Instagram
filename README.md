@@ -2,6 +2,7 @@
 - [Bot Instagram](#bot-instagram)
   - [1. Sobre o Bot](#1-sobre-o-bot)
   - [2. Ferramentas Necessárias](#2-ferramentas-necessárias)
+  - [3.Preenchendo os campos](#3preenchendo-os-campos)
 ## 1. Sobre o Bot
  Este é um Bot para comentários automáticos em sorterios do Instagram, espero que goste, caso eu esteje certo deixe uma star!
 
@@ -15,3 +16,9 @@
 * pip install selenium
 ```
  *Abra o seu editor de código preferido e execute o arquivo `BotInstagram.py`
+
+## 3.Preenchendo os campos
+*Coloque o nome de usuário.
+*Coloque a senha.
+*Coloque a URL da foto.
+*Coloque os comentários que deseja comentar separados por `,` um após o outro, para marcar pessoas coloque `@usuario`
