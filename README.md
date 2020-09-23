@@ -18,7 +18,7 @@
 ```
  * Baixar o geckodriver de acordo com seu sistema operacional. Recomendo o dowload da versão mais recente! [Dowload geckodriver](https://github.com/mozilla/geckodriver/releases)
  * Extrair e colocar o arquivo em uma  pasta de fácil acesso, EX: C:, Desktop.
- * Verifique o caminho do `geeckodriver` na linha 17. O caminho deve terminar em geckodriver.exe. Exemplo: C:\BotInstagram\geckodriver-v0.27.0-win64\geckodriver.exe.
+ * Verifique o caminho do `geeckodriver` na linha 17. O caminho deve terminar em geckodriver.exe. Exemplo: `C:\BotInstagram\geckodriver-v0.27.0-win64\geckodriver.exe`.
  * Abra o seu editor de código preferido e execute o arquivo `BotInstagram.py`.
 
 ## 3. Preenchendo os campos
@@ -29,4 +29,4 @@
   
 ## 4. Possíveis Erros
  * Não foram instaladas as bibliotecas do [Item 2](#2-ferramentas-necessárias-para-execução).
- * O caminho do geckodriver está errado.
+ * O caminho do geckodriver está errado [Item 2](#2-ferramentas-necessárias-para-execução).
