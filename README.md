@@ -28,5 +28,5 @@
  * Escreva os comentários que deseja comentar separados por `,` um após o outro, para marcar pessoas coloque `@usuario`.
   
 ## 4. Possíveis Erros
- * Não foram instaladas as bibliotecas do item 2.
+ * Não foram instaladas as bibliotecas do [Item 2](#2-ferramentas-necessárias-para-execução).
  * O caminho do geckodriver está errado.
