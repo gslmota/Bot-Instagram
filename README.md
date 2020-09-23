@@ -1,7 +1,11 @@
 # Bot Instagram
+- [Bot Instagram](#bot-instagram)
+  - [1. Sobre o Bot](#1-sobre-o-bot)
+  - [2. Ferramentas Necessárias](#2-ferramentas-necessárias)
+## 1. Sobre o Bot
  Este é um Bot para comentários automáticos em sorterios do Instagram, espero que goste, caso eu esteje certo deixe uma star!
 
-## Ferramentas Necessárias
+## 2. Ferramentas Necessárias
  Atualmente tenho usado o navegador Firefox, logo escolhi ele para o bot executar suas ações, o editor de código que estou usando é o VS Code.
  * Primeiramente deve-se baixar o Python caso não o tenha ainda. [Dowload Python](https://www.python.org/downloads/)
  * Baixe o Mozilla Firefox. [Dowload Firefox](https://www.mozilla.org/pt-BR/firefox/new/)
@@ -10,3 +14,4 @@
 * pip install PySimpleGUI
 * pip install selenium
 ```
+ *Abra o seu editor de código preferido e execute o arquivo `BotInstagram.py`
