@@ -15,10 +15,11 @@
 * pip install PySimpleGUI
 * pip install selenium
 ```
- * Abra o seu editor de código preferido e execute o arquivo `BotInstagram.py`
+ * Abra o seu editor de código preferido e execute o arquivo `BotInstagram.py`.
+ * Verifque o caminho do `geeckodriver` na linha 17. Recomendo o dowload da versão mais recente! [Dowload geckodriver]()
 
 ## 3. Preenchendo os campos
  * Coloque o nome de usuário.
  * Coloque a senha.
  * Coloque a URL da foto.
- * Coloque os comentários que deseja comentar separados por `,` um após o outro, para marcar pessoas coloque `@usuario`
+ * Escreva os comentários que deseja comentar separados por `,` um após o outro, para marcar pessoas coloque `@usuario`.
