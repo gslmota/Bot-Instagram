@@ -3,6 +3,7 @@
   - [1. Sobre o Bot](#1-sobre-o-bot)
   - [2. Ferramentas necessárias para execução](#2-ferramentas-necessárias-para-execução)
   - [3. Preenchendo os campos](#3-preenchendo-os-campos)
+  - [4. Possíveis Erros](#4-possíveis-erros)
 ## 1. Sobre o Bot
  Este é um Bot para comentários automáticos em sorterios do Instagram, espero que goste, caso eu esteje certo deixe uma star!
 
@@ -17,7 +18,7 @@
 ```
  * Baixar o geckodriver de acordo com seu sistema operacional. Recomendo o dowload da versão mais recente! [Dowload geckodriver](https://github.com/mozilla/geckodriver/releases)
  * Extrair e colocar o arquivo em uma  pasta de fácil acesso, EX: C:, Desktop.
- * Verifique o caminho do `geeckodriver` na linha 17.
+ * Verifique o caminho do `geeckodriver` na linha 17. O caminho deve terminar em geckodriver.exe. Exemplo: C:\BotInstagram\geckodriver-v0.27.0-win64\geckodriver.exe.
  * Abra o seu editor de código preferido e execute o arquivo `BotInstagram.py`.
 
 ## 3. Preenchendo os campos
@@ -25,3 +26,7 @@
  * Coloque a senha.
  * Coloque a URL da foto.
  * Escreva os comentários que deseja comentar separados por `,` um após o outro, para marcar pessoas coloque `@usuario`.
+  
+## 4. Possíveis Erros
+ * Não foram instaladas as bibliotecas do item 2.
+ * O caminho do geckodriver está errado.
