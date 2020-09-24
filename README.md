@@ -33,6 +33,5 @@ pip install selenium
  * O caminho do geckodriver está errado [Item 2](#2-ferramentas-necessárias-para-execução).
   
 ## 5. Licença
-Licenciado sob a Licença MIT; você não pode usar este arquivo, exceto em conformidade com a Licença. Você pode obter uma cópia da Licença em `https://opensource.org/licenses/MIT`.
-A menos que exigido pela lei aplicável ou acordado por escrito, o software distribuído sob a Licença é distribuído "COMO ESTÁ", SEM GARANTIAS OU CONDIÇÕES DE QUALQUER TIPO, expressas ou implícitas. Consulte a Licença para as permissões e limitações que regem o idioma específico sob a Licença.
+Licenciado sob a Licença MIT. Você pode obter uma cópia da Licença em `https://opensource.org/licenses/MIT`.
 Para mais informações consulte [License](LICENSE).
