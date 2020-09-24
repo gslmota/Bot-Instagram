@@ -4,6 +4,7 @@
   - [2. Ferramentas necessárias para execução](#2-ferramentas-necessárias-para-execução)
   - [3. Preenchendo os campos](#3-preenchendo-os-campos)
   - [4. Possíveis Erros](#4-possíveis-erros)
+  - [5. Licença](#5-licença)
 ## 1. Sobre o Bot
  Este é um Bot para comentários automáticos em sorteios do Instagram, espero que goste, caso eu esteje certo deixe uma star!
 
@@ -30,3 +31,8 @@
 ## 4. Possíveis Erros
  * Não foram instaladas as bibliotecas do [Item 2](#2-ferramentas-necessárias-para-execução).
  * O caminho do geckodriver está errado [Item 2](#2-ferramentas-necessárias-para-execução).
+  
+## 5. Licença
+Licenciado sob a Licença MIT; você não pode usar este arquivo, exceto em conformidade com a Licença. Você pode obter uma cópia da Licença em `https://opensource.org/licenses/MIT`.
+A menos que exigido pela lei aplicável ou acordado por escrito, o software distribuído sob a Licença é distribuído "COMO ESTÁ", SEM GARANTIAS OU CONDIÇÕES DE QUALQUER TIPO, expressas ou implícitas. Consulte a Licença para as permissões e limitações que regem o idioma específico sob a Licença.
+Para mais informações consulte [License](LICENSE).
